@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    font-size: 18pt;
+}
+
+/* header */
+header {
+    background-color: #CADCE0;
+}
+.flex-container {
+    display: flex;
+}
+.flex-container > div {
+    width: 100%;
+    /* margin: 5px; */
+    /* border: solid black; */
+    padding: 15px;
+    /* font-size: 30px; */
+}
+
+img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+/* li {
+    font-weight: bold;
+} */
+
+/* aside */
+aside {
+    height: 100%;
+    background-color: #333945;
+    /* margin: 15px; */
+    /* border-radius: 5%; */
+    padding: 15px;
+    color: #fff;
+}
+#aside {
+    width: 40%;
+}
+
+/* section */
+section h4 {
+    margin: 10px;
+}
